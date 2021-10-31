@@ -14,6 +14,10 @@
 
 https://anamika-budget-tracker.herokuapp.com/
 
+### App Demo
+
+![](https://youtu.be/Q0t7-vliUGc)
+
 ### Application Functionalities
 
 - The ability to enter deposits offline.
